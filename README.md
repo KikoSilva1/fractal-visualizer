@@ -22,7 +22,7 @@ Lower numbers render faster but with less detail.
 - Julia parameter (1 to 4):
 Selects different predefined Julia sets.
 
-##Controls
+## Controls
 
 Mouse scroll wheel:
 Use the scroll wheel to zoom in and out of the fractal for interactive exploration.
